@@ -1,0 +1,10 @@
+x=5
+print("x=",x,"ta co kieu du lieu:",type(x))
+x="abcd"
+print("x=",x,"ta co kieu du lieu:",type(x))
+x=False
+print("x=",x,"ta co kieu du lieu:",type(x))
+x=2.5
+print("x=",x,"ta co kieu du lieu:",type(x))
+x=complex(25,12)
+print("x=",x,"ta co kieu du lieu:",type(x))
